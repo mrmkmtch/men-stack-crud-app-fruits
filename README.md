@@ -54,7 +54,7 @@ men-stack-crud-app-fruits/
 
 1. **Clone the repository**
    ```bash
-   git clone https://git.generalassemb.ly/makadana/men-stack-crud-app-fruits.git
+   git clone https://github.com/mrmkmtch/men-stack-crud-app-fruits.git
    cd men-stack-crud-app-fruits
    ```
 
